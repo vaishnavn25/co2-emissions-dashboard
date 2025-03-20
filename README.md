@@ -8,8 +8,7 @@ This repository contains a **Tableau Dashboard** visualizing global CO₂ emissi
 
 - **Total Global CO₂ Emissions:** Displays the total emissions for the latest available year.
 - **Top CO₂ Emitting Country:** Highlights the country contributing the most emissions.
-- **Annual CO₂ Growth Rate:** Shows the year-over-year change in CO₂ emissions.
-- **CO₂ from Fossil Fuels:** Analyzes the percentage of emissions coming from coal, oil, and gas.
+- **CO₂ from Fossil Fuels:** Analyzes the percentage of emissions coming from coal, oil.
 - **Trend Analysis:** Tracks CO₂ emissions from historical records to the present.
 - **Top 10 CO₂ Emitters:** Compares emissions by country.
 - **Geospatial Visualization:** Maps CO₂ emissions across the world.
